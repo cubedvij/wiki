@@ -5,7 +5,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Кубічне Вікі",
   description: "Гайд для гри на сервері \"Кубічний Двіж\"",
-  base: '/wiki/',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
       [
