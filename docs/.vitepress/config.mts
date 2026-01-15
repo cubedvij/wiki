@@ -1,9 +1,24 @@
 import { defineConfig } from 'vitepress'
 
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Кубічне Вікі",
   description: "Гайд для гри на сервері \"Кубічний Двіж\"",
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+      [
+        'link',
+        { rel: 'preconnect', href: 'https://fonts.googleapis.com' }
+      ],
+    [
+      'link',
+      { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }
+    ],
+    [
+      'link',
+      { href: 'https://fonts.googleapis.com/css2?family=Roboto&display=swap', rel: 'stylesheet' }
+    ]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/images/logo.png',
@@ -15,51 +30,60 @@ export default defineConfig({
       {
         text: 'Початок',
         items: [
-            { text: 'Як Почати Гру', link: '/getting-started' },
-            { text: 'Правила', link: '/rules' },
-            { text: 'Як Приєднатися', link: '/how-join' },
-            { text: 'Корисні Команди', link: '/commands' },
-            { text: 'Спільнота', link: '/community' }
+          { text: 'Як Почати Гру', link: '/getting-started' },
+          { text: 'Правила', link: '/rules' },
+          { text: 'Як Приєднатися', link: '/how-join' },
+          { text: 'Корисні Команди', link: '/commands' },
+          { text: 'Спільнота', link: '/community' }
         ]
       },
       {
         text: 'Генерація',
+        collapsed: true,
+        base: 'mods/',
         items: [
-            { text: 'Генерація Світу', link: '/mods/moderner-beta' },
-            { text: 'Підземелля', link: '/mods/roguelike-dungeons' },
-            { text: 'Нові Загрози', link: '/mods/illager-expansion' },
+          { text: 'Генерація Світу', link: 'moderner-beta' },
+          { text: 'Підземелля', link: 'roguelike-dungeons' },
+          { text: 'Нові Загрози', link: 'illager-expansion' },
         ]
       },
       {
         text: 'Їжа та Алкоголь',
+        collapsed: true,
+        base: 'mods/',
         items: [
-            { text: 'Кулінарія', link: '/mods/farmers-delight' },
-            { text: 'Алкоголь', link: '/mods/brewery' },
-            { text: 'Риболовля', link: '/mods/go-fish' }
+          { text: 'Кулінарія', link: 'farmers-delight' },
+          { text: 'Алкоголь', link: 'brewery' },
+          { text: 'Риболовля', link: 'go-fish' }
         ]
       },
       {
         text: 'Блоки та Будівництво',
+        collapsed: true,
+        base: 'mods/',
         items: [
-            { text: 'Декорації', link: '/mods/decorative-blocks' },
-            { text: 'Шахи', link: '/mods/polychess' }
+          { text: 'Декорації', link: 'decorative-blocks' },
+          { text: 'Шахи', link: 'polychess' }
         ]
       },
       {
         text: 'Інші Механіки',
+        collapsed: true,
+        base: 'mods/',
         items: [
-            { text: 'Могили', link: '/mods/graves' },
-            { text: 'Рюкзаки', link: '/mods/backpacks' },
-            { text: 'Лікувальне Багаття', link: '/mods/healing-campfire' },
-            { text: 'Сон', link: '/mods/sleep-warp' },
-            { text: 'Емоції', link: '/mods/danse' }
+          { text: 'Могили', link: 'graves' },
+          { text: 'Рюкзаки', link: 'backpacks' },
+          { text: 'Лікувальне Багаття', link: 'healing-campfire' },
+          { text: 'Сон', link: 'sleep-warp' },
+          { text: 'Емоції', link: 'danse' }
         ]
       }
     ],
 
     socialLinks: [
       { icon: 'telegram', link: 'https://t.me/cube_dvij' },
-      { icon: 'discord', link: 'https://discord.gg/TK2CwjNFqT' }
+      { icon: 'discord', link: 'https://discord.gg/TK2CwjNFqT' },
+      { icon: 'github', link: 'https://github.com/cubedvij' }
     ]
   }
 })
