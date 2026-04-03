@@ -5,6 +5,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Кубічне Вікі",
   description: "Гайд для гри на сервері \"Кубічний Двіж\"",
+  cleanUrls: true,
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
       [
@@ -74,7 +75,6 @@ export default defineConfig({
           { text: 'Могили', link: 'graves' },
           { text: 'Рюкзаки', link: 'backpacks' },
           { text: 'Лікувальне Багаття', link: 'healing-campfire' },
-          { text: 'Сон', link: 'sleep-warp' },
           { text: 'Емоції', link: 'danse' }
         ]
       }
