@@ -18,7 +18,14 @@
 
 Є два варіанти лаунчера:
 - **[Prism Launcher](https://prismlauncher.org/)** (Ліцензійний)
+
+    - [Завантажити (Інсталятор)](https://github.com/PrismLauncher/PrismLauncher/releases/latest/download/PrismLauncher-Windows-MSVC-Setup-10.0.5.exe)
+    - [Завантажити (Портативна версія)](https://github.com/PrismLauncher/PrismLauncher/releases/latest/download/PrismLauncher-Windows-MSVC-Portable-10.0.5.zip)
+
 - **[Prism Launcher Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/)** (Піратка)
+
+    - [Завантажити (Інсталятор)](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/latest/download/PrismLauncher-Windows-MSVC-Setup-10.0.5.exe)
+    - [Завантажити (Портативна версія)](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/latest/download/PrismLauncher-Windows-MSVC-Portable-10.0.5.zip)
 
 ## Перший запуск Prism Launcher
 - Завантажте та встановіть **Prism Launcher**.
