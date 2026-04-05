@@ -22,8 +22,11 @@ export default defineConfig({
     ],
     [
       'script',
-      {},
-      `<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "c3f0ee0e12544e41be0f9dfc1f06e2c2"}'></script><!-- End Cloudflare Web Analytics -->`
+      {
+        defer: 'true',
+        src: 'https://static.cloudflareinsights.com/beacon.min.js',
+        'data-cf-beacon': '{"token": "c3f0ee0e12544e41be0f9dfc1f06e2c2"}' // <-- Replace with your token
+      }
     ]
   ],
   themeConfig: {
