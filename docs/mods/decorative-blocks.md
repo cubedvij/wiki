@@ -4,7 +4,7 @@
 
 Цей мод додає набір ванільних декоративних блоків, які ідеально вписуються в гру.
 
-![PolyDecorations](/images/mods/polydecorations.png)
+![PolyDecorations](/images/mods/polydecorations.jpg)
 
 * **Меблі:** Лавки, столики, полички.
 * **Декор:** Чаші з вогнем (braziers), вказівники.
@@ -14,7 +14,7 @@
 
 Вирішує проблему відсутності варіантів для бетону.
 
-![Toms Server Additions: Concrete!](/images/mods/tsa-concrete.png)
+![Toms Server Additions: Concrete!](/images/mods/tsa-concrete.jpg)
 
 * Додає **Сходи (Stairs)**, **Напівблоки (Slabs)** та **Стіни (Walls)** для всіх 16 кольорів бетону.
 
@@ -22,7 +22,7 @@
 
 Додає нові візерунки для дерев'яних дощок усіх видів.
 
-![Toms Server Additions: Planks!](/images/mods/tsa-planks.png)
+![Toms Server Additions: Planks!](/images/mods/tsa-planks.jpg)
 
 * **Вертикальні дошки (Vertical Planks):** Ідеальні для стін та парканів.
 * **Різьблені дошки (Chiseled Planks):** Декоративні варіанти для візерунків.
@@ -31,7 +31,7 @@
 
 Розширює можливості кам'яних блоків.
 
-![Toms Server Additions: Stone!](/images/mods/tsa-stone.png)
+![Toms Server Additions: Stone!](/images/mods/tsa-stone.jpg)
 
 * Додає відсутні варіанти (сходи, напівблоки, стіни) для різних порід каменю (наприклад, Tuff, Calcite, Dripstone тощо, залежно від версії).
 * Дозволяє створювати більш деталізовані кам'яні споруди.

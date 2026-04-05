@@ -4,13 +4,13 @@
 **Danse** — це серверний мод для **Fabric** (версія **1.21.4+**), який додає анімації, жести та емоції для гравців.
 :::
 
-![Danse](/images/mods/danse.png)
+![Danse](/images/mods/danse.jpg)
 
 ### 🎭 Список жестів
 
 Для доступу до жестів натисніть клавішу `G` (за замовчуванням).
 
-![Danse Menu](/images/mods/danse-dialog.webp)
+![Danse Menu](/images/mods/danse-dialog.jpg)
 
 АБО використовуйте команду в чаті `/gesture`.
 

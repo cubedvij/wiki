@@ -49,7 +49,7 @@ import { ref, computed } from "vue";
         <div class="channel-card">
           <div class="image-container">
             <img
-              src="/images/channels/discord.webp"
+              src="/images/channels/discord.jpg"
               alt="Discord Сервер Кубічний Двіж"
             />
           </div>

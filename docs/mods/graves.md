@@ -2,7 +2,7 @@
 
 **Universal Graves** — це простий, але гнучкий мод, який створює "могилу" (скриню) на місці вашої смерті, зберігаючи весь інвентар у безпеці.
 
-![Universal Graves](/images/mods/graves.png)
+![Universal Graves](/images/mods/graves.jpg)
 
 ## ✨ Особливості
 

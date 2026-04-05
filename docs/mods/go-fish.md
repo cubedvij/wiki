@@ -8,7 +8,7 @@
 
 Go Fish додає звичайну рибу, яку можна зловити будь-де у кожному вимірі, а також специфічну для біомів рибу, яка водиться лише в певних місцях.
 
-![Go Fish](/images/mods/goon-fishing.png)
+![Go Fish](/images/mods/goon-fishing.jpg)
 
 ### Верхній світ (Overworld)
 

@@ -1,6 +1,6 @@
 # 🚀 Moderner Beta
 
-![moderner-beta-logo](/images/mods/moderner-beta.png)
+![moderner-beta-logo](/images/mods/moderner-beta.jpg)
 
 **Moderner Beta** — це форк моду *Modern Beta* від `b3spectacled`. Проєкт є частиною ініціативи **Nostalgica Reverie**.
 

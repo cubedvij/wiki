@@ -1,11 +1,11 @@
 import { defineConfig } from 'vitepress'
 
-
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Кубічне Вікі",
   description: "Гайд для гри на сервері \"Кубічний Двіж\"",
   cleanUrls: true,
+  lastUpdated: true,
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
       [

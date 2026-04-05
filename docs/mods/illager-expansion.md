@@ -1,6 +1,6 @@
 # 👹 Illager Expansion Recrafted!
 
-![Illager Expansion](/images/mods/illager-expansion.png)
+![Illager Expansion](/images/mods/illager-expansion.jpg)
 
 **Illager Expansion** — це мод, присвячений додаванню нового контенту, пов'язаного з таємничими розбійниками (Illagers) у Minecraft. Від нових споруд до мобів та предметів — ми подбали про все. Чи зможете ви розкрити всі таємниці розбійників, доки не стане занадто пізно?
 

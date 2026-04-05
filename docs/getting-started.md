@@ -8,7 +8,7 @@
 
 - Перейдіть за посиланням і завантажуйте відповідний інсталятор для вашої операційної системи.
 
-![Java Installation Screenshot](/images/java.png)
+![Java Installation Screenshot](/images/java.jpg)
 
 - Встановіть Java, слідуючи інструкціям інсталятора.
 
@@ -46,4 +46,4 @@
 - Перейдіть на вкладку **Modrinth**.
 - Оберіть **Fabulously Optimized**(1.21.11) і натисніть **Ок**.
 
-![Встановлення Збірки](/images/install-minecraft.png)
+![Встановлення Збірки](/images/install-minecraft.jpg)

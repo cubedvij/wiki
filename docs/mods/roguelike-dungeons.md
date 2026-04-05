@@ -1,6 +1,6 @@
 # 🏰 Roguelike Dungeons
 
-![Roguelike Dungeons](/images/mods/roguelikedungeons.png)
+![Roguelike Dungeons](/images/mods/roguelikedungeons.jpg)
 
 Цей мод додає у світ величезні, процедурно згенеровані підземелля, наповнені небезпеками та скарбами. Це справжній виклик як для новачків, так і для ветеранів!
 
