@@ -20,17 +20,10 @@ export default defineConfig({
       'link',
       { href: 'https://fonts.googleapis.com/css2?family=Roboto&display=swap', rel: 'stylesheet' }
     ],
-      [
-      'script',
-      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-X282TBLNLC' }
-    ],
     [
       'script',
       {},
-      `window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-X282TBLNLC');`
+      `<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "c3f0ee0e12544e41be0f9dfc1f06e2c2"}'></script><!-- End Cloudflare Web Analytics -->`
     ]
   ],
   themeConfig: {
