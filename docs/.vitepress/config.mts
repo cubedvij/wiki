@@ -44,7 +44,8 @@ export default defineConfig({
           { text: 'Правила', link: '/rules' },
           { text: 'Як Приєднатися', link: '/how-join' },
           { text: 'Корисні Команди', link: '/commands' },
-          { text: 'Спільнота', link: '/community' }
+          { text: 'Спільнота', link: '/community' },
+          { text: 'ГОІ', link: '/images' }
         ]
       },
       {
